@@ -1,0 +1,21 @@
+[
+    {"name":"Bulbasaur","hp":45,"attack":49,"speed":45,"defense":49,"sp.attack":65,"sp.defense":49,"lvl":1,"moves":{"Tackle":40,"Growl":0},"types1":"grass","types2":"poison"},
+    {"name":"Ivysaur","hp":60,"attack":62,"speed":60,"defense":63,"sp.attack":80,"sp.defense":80,"lvl":1,"moves":{"Vine Whip":45,"Tackle":40,"Growl":0},"types1":"grass","types2":"poison"},
+    {"name":"Venusaur","hp":80,"attack":82,"speed":80,"defense":83,"sp.attack":100,"sp.defense":100,"lvl":1,"moves":{"Petal Blizzard":9,"Vine Whip":45,"Tackle":40,"Growl":0},"types1":"grass","types2":"poison"}
+    
+    
+    {"name":"Charmandar","hp":39,"attack":52,"speed":65,"defense":43,"sp.attack":60,"sp.defense":50,"lvl":1,"moves":{"Scratch":40,"Growl":0},"types1":"fire"},
+    {"name":"Charmeleon","hp":58,"attack":64,"speed":80,"defense":58,"sp.attack":80,"sp.defense":65,"lvl":1,"moves":{"Ember":40,"Scratch":40,"Growl":0},"types1":"fire"},
+    {"name":"Charizard","hp":78,"attack":84,"speed":100,"defense":78,"sp.attack":109,"sp.defense":85,"lvl":1,"moves":{"Flamethrower":90,"Ember":40,"Scratch":40,"Growl":0},"types1":"fire","types2":"flying"}
+    
+
+    {"name":"Squirtle","hp":44,"attack":48,"speed":43,"defense":65,"sp.attack":50,"sp.defense":64,"lvl":1,"moves":{"Tackle":40,"Tail Whip":0},"types1":"water"},
+    {"name":"Wartortle","hp":59,"attack":63,"speed":58,"defense":80,"sp.attack":65,"sp.defense":80,"lvl":1,"moves":{"Water Gun":40,"Tackle":40,"Tail Whip":0},"types1":"water"},
+    {"name":"Blastoise","hp":79,"attack":83,"speed":78,"defense":100,"sp.attack":85,"sp.defense":105,"lvl":1,"moves":{"Hydro Pump":110,"Water gun":40,"Tail Whip":50,"Growl":0},"types1":"water"}
+
+
+    {"name":"Caterpie","hp":45,"attack":30,"speed":45,"defense":35,"sp.attack":20,"sp.defense":20,"lvl":1,"moves":{"Tackle":40,"String Shot":0},"types1":"bug"},
+    {"name":"Metapod","hp":50,"attack":20,"speed":30,"defense":55,"sp.attack":25,"sp.defense":25,"lvl":1,"moves":{"Harden":0,"Tackle":40,"String Shot":0},"types1":"bug"},
+    {"name":"Butterfree","hp":60,"attack":45,"speed":70,"defense":50,"sp.attack":90,"sp.defense":80,"lvl":1,"moves":{"Bug Bite":60,"Harden":0,"Tackle":50,"String Shot":0},"types1":"bug","types2":"flying"}
+
+]
