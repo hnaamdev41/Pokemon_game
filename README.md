@@ -18,13 +18,13 @@ I will merge the pull requests as soon as possible.
 
 # Like in pokemons.json 
 
-**Pokemon with 3 evolution we will be like this**
+**Pokemon with 3 evolution will be like this**
 
 - Bulbasaur has 2 moves
 - Ivysaur has 3 moves
 - Venusaur has 4 moves
 
-**Pokemon with 2 evolution we will**
+**Pokemon with 2 evolution will**
 
 - first evolution will have 3 moves
 - second and last evolution will have 4 moves
