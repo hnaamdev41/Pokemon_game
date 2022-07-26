@@ -13,6 +13,11 @@
     {"name":"Butterfree","hp":60,"attack":45,"defense":50,"sp.attack":90,"sp.defense":80,"speed":70,"lvl":1,"moves":{"Bug Bite":60,"Harden":0,"Tackle":50,"String Shot":0},"types1":"bug","types2":"flying"},
     {"name":"Weedle","hp":40,"attack":35,"defense":30,"sp.attack":20,"sp.defense":20,"speed":45,"lvl":1,"moves":{"Poison Sting":15,"String Shot":0},"types1":"bug","types2":"poison"},
     {"name":"Kakuna","hp":45,"attack":25,"defense":50,"sp.attack":25,"sp.defense":25,"speed":30,"lvl":1,"moves":{"Harden":0,"Poison Sting":15,"String Shot":0},"types1":"bug", "types2":"poison"},
-    {"name":"Beedrill","hp":65,"attack":90,"defense":40,"sp.attack":45,"sp.defense":25,"speed":75,"lvl":1,"moves":{"Bug Bite":60,"Harden":0,"Tackle":50,"String Shot":0},"types1":"bug","types2":"poison"}
+    {"name":"Beedrill","hp":65,"attack":90,"defense":40,"sp.attack":45,"sp.defense":25,"speed":75,"lvl":1,"moves":{"Bug Bite":60,"Harden":0,"Poison Sting":15,"String Shot":0},"types1":"bug","types2":"poison"},
+    {"name":"Pidgey","hp":40,"attack":45,"defense":40,"sp.attack":35,"sp.defense":35,"speed":56,"lvl":1,"moves":{"Tackle":40,"Sand Attack":0},"types1":"normal","types2":"flying"},
+    {"name":"Pidgeotto","hp":63,"attack":60,"defense":55,"sp.attack":50,"sp.defense":50,"speed":71,"lvl":1,"moves":{"Gust":40,"Tackle":40,"Sand Attack":0},"types1":"normal", "types2":"flying"},
+    {"name":"Pidgeot","hp":83,"attack":80,"defense":75,"sp.attack":70,"sp.defense":70,"speed":101,"lvl":1,"moves":{"Air Slash":75,"Gust":40,"Tackle":40,"Sand Attack":0},"types1":"normal","types2":"flying"}
+    {"name":"Rattata","hp":30,"attack":56,"defense":35,"sp.attack":35,"sp.defense":35,"speed":72,"lvl":1,"moves":{"Bite":60,"Quick Attack":40,"Tail Whip":0},"types1":"normal"},
+    {"name":"Raticate","hp":55,"attack":81,"defense":60,"sp.attack":50,"sp.defense":70,"speed":97,"lvl":1,"moves":{"Hyper Fang":80,"Bite":60,"Quick Attack":40,"Tail Whip":0},"types1":"normal","types2":"flying"}
 
 ]
